@@ -1,0 +1,11 @@
+1,"Region1",3
+"Candidate1","Party1"
+"Candidate2","Party2"
+"Candidate3","Party3"
+3,"Region3",2
+"Candidate4","Party1"
+"Candidate5","Party3"
+2,"Region2",3
+"Candidate6","Party1"
+"Candidate7","Party2"
+"Candidate8","Party4"
